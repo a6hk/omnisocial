@@ -1,0 +1,6 @@
+{
+  "name": "OmniSocial Content Generator",
+  "description": "Cross-platform AI social media generator producing tailored text posts and custom visual assets for LinkedIn, Twitter/X, and Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
